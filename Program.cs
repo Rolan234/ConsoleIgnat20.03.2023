@@ -10,7 +10,7 @@ namespace ConsoleIgnat20._03._2023
     {
         static void Main(string[] args)
         {
-            Задание 1
+            Задание 1s
            
             Console.Write("Введите количество элементов массива: ");
             int n = int.Parse(Console.ReadLine());
